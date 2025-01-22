@@ -33,3 +33,15 @@ A 4-bit binary number can represent any value between 0 and 15 (in decimal). You
 	•	1101 → B’
 	•	1110 → C’’ (octave above)
 	•	1111 → D’’
+
+ # Example
+ <img width="380" alt="Screenshot 2025-01-22 at 17 15 25" src="https://github.com/user-attachments/assets/3d1ad0f7-1371-44b0-b3e0-3ec113ba587a" />
+
+ https://www.youtube.com/watch?v=1PJTWsXYDbw&list=PLcEun0ol29M0GgNR2Z9A2lW15TaW2U5EJ
+
+ # Challenge
+ If I give you a 8x8 picture, can you create a 4 bit music for this one?
+ <img width="384" alt="Screenshot 2025-01-22 at 17 11 21" src="https://github.com/user-attachments/assets/d211f0c6-ad2d-4882-8a21-15e71915f237" />
+
+# Tips
+You can post a audio or video link or you can describe it in words. 
